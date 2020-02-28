@@ -149,7 +149,7 @@ app.controller('TableCtrl', function ($scope, $http, $timeout) {
     $scope.machines = [];
     $http(request)
         .then(function (response) {
-            $scope.machines = response.data;
+            $scope.machines = response.data.sort((a, b) => a.order > b.order ? 1 : -1);
             $scope.machines.map(machine => {
                 machine.rejectHistorySparkline = machine.rejectHistory.map(a => a.rejectCount);
                 return machine;
