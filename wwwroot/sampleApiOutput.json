@@ -1,0 +1,7038 @@
+[
+  {
+    "machineName": "Machine 1",
+    "topDefectCavity": "1F",
+    "order": 10101,
+    "currentInspectCount": 207,
+    "currentRejectCount": 3,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 2",
+    "topDefectCavity": "1M",
+    "order": 10102,
+    "currentInspectCount": 238,
+    "currentRejectCount": 5,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 3",
+    "topDefectCavity": "1B",
+    "order": 10103,
+    "currentInspectCount": 215,
+    "currentRejectCount": 8,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 2
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 4",
+    "topDefectCavity": "2F",
+    "order": 10201,
+    "currentInspectCount": 244,
+    "currentRejectCount": 7,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 5",
+    "topDefectCavity": "2M",
+    "order": 10202,
+    "currentInspectCount": 206,
+    "currentRejectCount": 4,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 6",
+    "topDefectCavity": "2B",
+    "order": 10203,
+    "currentInspectCount": 214,
+    "currentRejectCount": 6,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 3
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 2
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 7",
+    "topDefectCavity": "3F",
+    "order": 10301,
+    "currentInspectCount": 233,
+    "currentRejectCount": 5,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 8",
+    "topDefectCavity": "3M",
+    "order": 10302,
+    "currentInspectCount": 224,
+    "currentRejectCount": 5,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 9",
+    "topDefectCavity": "3B",
+    "order": 10303,
+    "currentInspectCount": 208,
+    "currentRejectCount": 6,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 10",
+    "topDefectCavity": "4F",
+    "order": 10401,
+    "currentInspectCount": 211,
+    "currentRejectCount": 8,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 2
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 11",
+    "topDefectCavity": "4M",
+    "order": 10402,
+    "currentInspectCount": 251,
+    "currentRejectCount": 13,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bead Check",
+        "rejectCount": 8
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 8
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 8
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 2
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 12",
+    "topDefectCavity": "4B",
+    "order": 10403,
+    "currentInspectCount": 226,
+    "currentRejectCount": 10,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 13",
+    "topDefectCavity": "5F",
+    "order": 10501,
+    "currentInspectCount": 209,
+    "currentRejectCount": 9,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 8
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 14",
+    "topDefectCavity": "5M",
+    "order": 10502,
+    "currentInspectCount": 233,
+    "currentRejectCount": 6,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 15",
+    "topDefectCavity": "5B",
+    "order": 10503,
+    "currentInspectCount": 207,
+    "currentRejectCount": 10,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 9
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 5
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 2
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 16",
+    "topDefectCavity": "6F",
+    "order": 10601,
+    "currentInspectCount": 221,
+    "currentRejectCount": 11,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 8
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 8
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 8
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 8
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 3
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 2
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 17",
+    "topDefectCavity": "6M",
+    "order": 10602,
+    "currentInspectCount": 204,
+    "currentRejectCount": 5,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 18",
+    "topDefectCavity": "6B",
+    "order": 10603,
+    "currentInspectCount": 205,
+    "currentRejectCount": 5,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 19",
+    "topDefectCavity": "7F",
+    "order": 10701,
+    "currentInspectCount": 248,
+    "currentRejectCount": 7,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 20",
+    "topDefectCavity": "7M",
+    "order": 10702,
+    "currentInspectCount": 211,
+    "currentRejectCount": 7,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 3
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 21",
+    "topDefectCavity": "7B",
+    "order": 10703,
+    "currentInspectCount": 226,
+    "currentRejectCount": 3,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 22",
+    "topDefectCavity": "8F",
+    "order": 10801,
+    "currentInspectCount": 199,
+    "currentRejectCount": 3,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bead Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 23",
+    "topDefectCavity": "8M",
+    "order": 10802,
+    "currentInspectCount": 228,
+    "currentRejectCount": 10,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 8
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 24",
+    "topDefectCavity": "8B",
+    "order": 10803,
+    "currentInspectCount": 245,
+    "currentRejectCount": 8,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 5
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 25",
+    "topDefectCavity": "9F",
+    "order": 20101,
+    "currentInspectCount": 250,
+    "currentRejectCount": 10,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 8
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 5
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 3
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 26",
+    "topDefectCavity": "9M",
+    "order": 20102,
+    "currentInspectCount": 227,
+    "currentRejectCount": 5,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 27",
+    "topDefectCavity": "9B",
+    "order": 20103,
+    "currentInspectCount": 225,
+    "currentRejectCount": 9,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 8
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 28",
+    "topDefectCavity": "10F",
+    "order": 20201,
+    "currentInspectCount": 223,
+    "currentRejectCount": 2,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 29",
+    "topDefectCavity": "10M",
+    "order": 20202,
+    "currentInspectCount": 224,
+    "currentRejectCount": 7,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 30",
+    "topDefectCavity": "10B",
+    "order": 20203,
+    "currentInspectCount": 184,
+    "currentRejectCount": 6,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 31",
+    "topDefectCavity": "11F",
+    "order": 20301,
+    "currentInspectCount": 212,
+    "currentRejectCount": 3,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 32",
+    "topDefectCavity": "11M",
+    "order": 20302,
+    "currentInspectCount": 257,
+    "currentRejectCount": 10,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bead Check",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 4
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 33",
+    "topDefectCavity": "11B",
+    "order": 20303,
+    "currentInspectCount": 217,
+    "currentRejectCount": 5,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bead Check",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 4
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 34",
+    "topDefectCavity": "12F",
+    "order": 20401,
+    "currentInspectCount": 209,
+    "currentRejectCount": 9,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 5
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 35",
+    "topDefectCavity": "12M",
+    "order": 20402,
+    "currentInspectCount": 214,
+    "currentRejectCount": 4,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Debulk",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 36",
+    "topDefectCavity": "12B",
+    "order": 20403,
+    "currentInspectCount": 211,
+    "currentRejectCount": 7,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 37",
+    "topDefectCavity": "13F",
+    "order": 20501,
+    "currentInspectCount": 231,
+    "currentRejectCount": 3,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bead Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 38",
+    "topDefectCavity": "13M",
+    "order": 20502,
+    "currentInspectCount": 223,
+    "currentRejectCount": 3,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 39",
+    "topDefectCavity": "13B",
+    "order": 20503,
+    "currentInspectCount": 249,
+    "currentRejectCount": 7,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 40",
+    "topDefectCavity": "14F",
+    "order": 20601,
+    "currentInspectCount": 217,
+    "currentRejectCount": 7,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 41",
+    "topDefectCavity": "14M",
+    "order": 20602,
+    "currentInspectCount": 214,
+    "currentRejectCount": 6,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 42",
+    "topDefectCavity": "14B",
+    "order": 20603,
+    "currentInspectCount": 212,
+    "currentRejectCount": 6,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 4
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 43",
+    "topDefectCavity": "15F",
+    "order": 20701,
+    "currentInspectCount": 226,
+    "currentRejectCount": 10,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 9
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 7
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 5
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 44",
+    "topDefectCavity": "15M",
+    "order": 20702,
+    "currentInspectCount": 202,
+    "currentRejectCount": 1,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 45",
+    "topDefectCavity": "15B",
+    "order": 20703,
+    "currentInspectCount": 225,
+    "currentRejectCount": 6,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bead Check",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 46",
+    "topDefectCavity": "16F",
+    "order": 20801,
+    "currentInspectCount": 213,
+    "currentRejectCount": 7,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 6
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 6
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 5
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 2
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 47",
+    "topDefectCavity": "16M",
+    "order": 20802,
+    "currentInspectCount": 217,
+    "currentRejectCount": 6,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 4
+      },
+      {
+        "defect": "Bead Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Blow Pipe Check",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Blemish (MCAL)",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 1
+      }
+    ]
+  },
+  {
+    "machineName": "Machine 48",
+    "topDefectCavity": "16B",
+    "order": 20803,
+    "currentInspectCount": 184,
+    "currentRejectCount": 4,
+    "rejectHistory": [
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T01:00:00.000"
+        },
+        {
+            "rejectCount": 1,
+            "timestamp": "2020-02-26T02:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T03:00:00.000"
+        },
+        {
+            "rejectCount": 5,
+            "timestamp": "2020-02-26T04:00:00.000"
+        },
+        {
+            "rejectCount": 6,
+            "timestamp": "2020-02-26T05:00:00.000"
+        },
+        {
+            "rejectCount": 7,
+            "timestamp": "2020-02-26T06:00:00.000"
+        },
+        {
+            "rejectCount": 4,
+            "timestamp": "2020-02-26T07:00:00.000"
+        }
+    ],
+    "details": [
+      {
+        "defect": "Bead Check",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Debulk",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 4.6",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Dual Head Gauge",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Crizzled Baffle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Check – Channel 1.1",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Hollow Handle",
+        "rejectCount": 3
+      },
+      {
+        "defect": "Over Max C1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Heel",
+        "rejectCount": 2
+      },
+      {
+        "defect": "IT Application",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Crizzled Handle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Contact Angle",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad CE Coating - CEDump",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 4.5",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bottom Scanner - Compact Defect",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 8.1",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Cold Runner",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 3.4",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Check – Channel 1.2",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Lehr Breakage",
+        "rejectCount": 2
+      },
+      {
+        "defect": "Bad HE Coating - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cord - CEDump",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 2.7",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Cold Mold",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Check – Channel 3.8",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Heel Check",
+        "rejectCount": 1
+      },
+      {
+        "defect": "Contamination",
+        "rejectCount": 1
+      }
+    ]
+  }
+]

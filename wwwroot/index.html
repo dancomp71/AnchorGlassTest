@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html lang="en" ng-app="AnchorGlassTestApp">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css" />
+    <script src="node_modules/jquery/dist/jquery.js"></script>
+    <script src="node_modules/angular/angular.js"></script>
+    <script src="node_modules/highcharts/highcharts.js"></script>
+    <script src="scripts/app.js"></script>
+    <title>AnchorGlass - TestApp</title>
+    <style>
+        body {
+            padding-top: 50px;
+        }
+
+        .starter-template {
+            padding: 40px 15px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">AnchorGlass</a>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Home</a></li>
+                </ul>
+            </div><!--/.nav-collapse -->
+        </div>
+    </nav>
+    <div class="container">
+        <div class="row">
+            <h1>Defects</h1>
+        </div>
+        <div class="row">
+            <div ng-controller="TableCtrl">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Machine Name</th>
+                            <th>Top Defect Cavity</th>
+                            <th>Current Inspect</th>
+                            <th>Current Reject</th>
+                            <th>Reject History</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="machine in machines" ng-if="$index < 3" ng-click="showChart($event,machine)">
+                            <td scope="row">{{machine.machineName}}</td>
+                            <td>{{machine.topDefectCavity}}</td>
+                            <td>{{machine.currentInspectCount}}</td>
+                            <td>{{machine.currentRejectCount}}</td>
+                            <td><div class="inlinesparkline" data-sparkline="{{machine.rejectHistorySparkline}}"></div></td>
+                        </tr>
+                        <tr>
+                            <td scope="row">...</td>
+                            <td>...</td>
+                            <td>...</td>
+                            <td>...</td>
+                            <td>...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        
+        </div>        
+        <div class="row">
+            <div class="panel panel-default">
+                <div id="chartTitle" class="panel-heading">Chart</div>
+                <div class="panel-body">
+                    <div id="chart">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

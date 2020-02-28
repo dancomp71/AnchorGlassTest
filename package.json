@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "devDependencies": {
+    "gulp": "4.0.2",
+    "del": "5.1.0"
+  },
+  "dependencies": {
+    "@types/angular": "^1.6.57",
+    "@types/jquery": "^3.3.33",
+    "angular": "^1.7.9",
+    "bootstrap": "^3.4.1",
+    "highcharts": "^8.0.0",
+    "jquery": "^3.4.1"
+  }
+}

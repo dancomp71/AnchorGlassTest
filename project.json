@@ -1,0 +1,10 @@
+{
+  "publishOptions": {
+    "include": [
+      "web.config",
+      "wwwroot",
+      "Views",
+      "node_modules"
+    ]
+  }
+}
