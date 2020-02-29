@@ -16,6 +16,17 @@ app.controller('TableCtrl', function ($scope, $http, $timeout) {
         contentType: 'application/json'
     };
 
+    $scope.orderBy = "order";
+    $scope.limitTo = "3";
+
+    $scope.orderByChanged = function ($event) {
+        $timeout($scope.updateSparkline, 100);
+    };
+
+    $scope.limitToChanged = function ($event) {
+        $timeout($scope.updateSparkline, 100);
+    };
+
     $scope.showChart = function ($event, machine) {
         $event.stopPropagation();
 
@@ -54,7 +65,21 @@ app.controller('TableCtrl', function ($scope, $http, $timeout) {
             null);
     };
 
-    var SparkLine = function (options) {
+    $scope.updateSparkline = function () {
+        let $tds = $('div[data-sparkline]');
+        for (var i = 0; i < $tds.length; i += 1) {
+            let $td = $($tds[i]);
+            let ary = $td.data('sparkline');
+            let series = [{
+                data: ary,
+                pointStart: 1
+            }];
+            $scope.sparkLine({ series, chart: { renderTo: $td[0] } });
+        }
+        angular.element($($tds[0])[0]).click();
+    };
+
+    $scope.sparkLine = function (options) {
         var defaultOptions = {
             chart: {
                 renderTo: (options.chart && options.chart.renderTo),
@@ -147,9 +172,10 @@ app.controller('TableCtrl', function ($scope, $http, $timeout) {
     };
 
     $scope.machines = [];
+
     $http(request)
         .then(function (response) {
-            $scope.machines = response.data.sort((a, b) => a.order > b.order ? 1 : -1);
+            $scope.machines = response.data; //.sort((a, b) => a.order < b.order ? 1 : -1);
             $scope.machines.map(machine => {
                 machine.rejectHistorySparkline = machine.rejectHistory.map(a => a.rejectCount);
                 return machine;
@@ -158,19 +184,5 @@ app.controller('TableCtrl', function ($scope, $http, $timeout) {
             console.log(err);
         });
 
-    $timeout(
-        function () {
-            let $tds = $('div[data-sparkline]');
-            for (var i = 0; i < $tds.length; i += 1) {
-                let $td = $($tds[i]);
-                let ary = $td.data('sparkline');
-                let series = [{
-                    data: ary,
-                    pointStart: 1
-                }];
-                SparkLine({ series, chart: { renderTo: $td[0] } });
-            }
-            angular.element($($tds[0])[0]).click();
-
-    }, 100);
+    $timeout($scope.updateSparkline, 100);
 });
